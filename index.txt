@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	
+	<title>let's GO!!!</title>
+	<link href="site.css" rel="stylesheet">
+</head>
+<nav id="nav01"></nav>
+<center><body>
+	<h1>Where do you want to go???</h1>
+	<nav id="nav01"></nav>
+<div id="main">
+<hr>
+	<a href="travel.html">
+	<img src="travel.jpg" alt="travel" style="width:275px;height:350px;">
+	</a>
+	<img src="restaurant.jpg" alt="travel" style="width:275px;height:350px;">
+	<img src="event.jpg" alt="travel" style="width:275px;height:350px;">
+	<img src="exhibition.jpg" alt="travel" style="width:275px;height:350px;">
+<hr>
+</div>
+<script src="script.js"></script>
+</body align="center">
+<nav id="nav01"></nav>
+<style>
+
+html{
+  background: url(IMG_20160311_171445.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+</style>
+</center></body>
+
+ <footer>
+  <p>Developed by: <a href="https://www.facebook.com/mbabid">Masum B. Abid</a>.</p>
+ 
+</footer> 
+
+</html>

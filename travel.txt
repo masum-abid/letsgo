@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link href="site.css" rel="stylesheet">
+  
+	<title>Travel</title>
+</head>
+<nav id="nav01"></nav>
+<center><body>
+	<h1>Where do you want to travel???</h1>
+	<nav id="nav01"></nav>
+	<hr>
+	<h2>Cox's Bazar</h2>
+	<a href="https://en.wikipedia.org/wiki/Cox%27s_Bazar">
+	<img src="coxs-bazar.jpg" alt="travel" style="width:275px;height:350px;">
+	<a href="http://www.bangladeshtourismdirectory.com/rangamati-tourist-places-spots-Bangladesh.html">
+	<h2>Rangamati</h2>
+	<img src="Rangamati.jpg" alt="travel" style="width:275px;height:350px;">
+	</a>
+	<a href="http://www.bandarbantours.com">
+	<h2>Bandarban</h2>
+	<img src="Bandarban.jpg" alt="travel" style="width:275px;height:350px;">
+	</a>
+	<a href="http://www.sylhet.tourcircle.com/category/sylhet-tourist-spots/">
+	<h2>Sylhet</h2>
+	<img src="Sylhet.jpg" alt="travel" style="width:275px;height:350px;">
+	</a>
+<hr>
+<script src="script.js"></script>
+</center></body>
+<footer>
+  <p>Developed by: <a href="https://www.facebook.com/mbabid">Masum B. Abid</a>.</p>
+ 
+</footer> 
